@@ -184,7 +184,7 @@ for i in range(0, len(prop_scheme_list)):
                 ##**************************************
                 ## Print CR Flux (TOA flux if PhiF_GV =/= 0)
                 ##**************************************
-                print("====== ", prop_scheme0, ",", DM_profile0, ",", "mDM/GeV =", "%1.2e" % (mdm_val), ",", channel0, " =================")
+                print("====== ", species, ", ", prop_scheme0, ",", DM_profile0, ",", "mDM/GeV =", "%1.2e" % (mdm_val), ",", channel0, ",", DM_interaction, " =================")
                 for ki in range(0, len(K_print)): 
                     print("%1.3e" % (K_print[ki]), "%1.3e" % (np.interp(K_print[ki], K_out_TOA, species_ch_out_MIN_TOA)), "%1.3e" % (np.interp(K_print[ki], K_out_TOA, species_ch_out_MED_TOA)), "%1.3e" % (np.interp(K_print[ki], K_out_TOA, species_ch_out_MAX_TOA)))
                 print("===================================================================================")
@@ -255,7 +255,7 @@ for i in range(0, len(prop_scheme_list)):
                 
                 ax1.legend(loc=2, ncol=1, fontsize=16, frameon=True)
                 
-                fig.savefig(str(Fig_folder) + "/" + str(prop_scheme0) + "_" + str(DM_profile0) + "_" + str("%1.3e" % (mdm_val)) + "_" + str(channel0) + ".pdf", format='pdf', dpi=80)
+                fig.savefig(str(Fig_folder) + "/" + str(species) + "_" + str(prop_scheme0) + "_" + str(DM_profile0) + "_" + str("%1.3e" % (mdm_val)) + "_" + str(channel0) + "_" + str(DM_interaction) + ".pdf", format='pdf', dpi=80)
                 ##=======================================================================
 
 
