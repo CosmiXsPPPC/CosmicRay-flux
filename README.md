@@ -1,9 +1,9 @@
 # Main purpose 
 
-The repository serves as a poor particle physicist cookbook by providing the weak-scale dark matter (DM) induced cosmic-ray (CR) fluxes of $\bar{p}$ and $\bar{D}$ 
+The repository serves as a poor particle physicist cookbook by providing the weak-scale dark matter (DM) induced cosmic-ray (CR) fluxes for $\bar{p}$ and $\bar{D}$ 
 calculated under the **_updated models_**, and thus should be useful for DM indirect searches in the era of high precision CR measurements. 
 The main purpose is to allow the users to study the DM phenomenology based on cosmic-rays in an *efficient*, *fast* and *effortless* way 
-without going into the involved calculations for the fluxes. The computation of the cosmic-ray fluxes connects the updated primary spectra from **CosmiXs** 
+without going into the involved calculations for the fluxes. The computation of the CR fluxes connects the updated primary spectra from **CosmiXs** 
 and their Galactic propagation under the **_new_** propagation models which are now much more constrained, thanks to the precision CR measurements. 
 
 
@@ -12,7 +12,7 @@ and their Galactic propagation under the **_new_** propagation models which are 
 The DM induced primary spectra for $\bar{p}$ and $\bar{D}$ are taken from **CosmiXs** for the same DM mass binns (5 GeV - 100 TeV (10 GeV - 200 TeV) for DM annihilation (decay)) provided there and for 19 annihilation/decay channels:  $e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, ${t \bar{t}}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, $Z \gamma$, $H Z$.
 
 Each of the spectra is then propagated through the Galaxy using the **MIN**, **MED** and **MAX** sets under the **_new_** propagation schemes: 
-**SLIM**, **BIG** and **QUAINT** to obtain the cosmic-ray flux ($d\phi/dK$) at the Solar position. 
+**SLIM**, **BIG** and **QUAINT** to obtain the CR flux ($d\phi/dK$) at the Solar position. 
 The fluxes are computed using the semi-analytic approach considering different effects including energy-losses and re-acceleration.
 
 For the DM distribution in the Galaxy, we consider the *NFW*, *Einasto* and *Burkert* profiles which are normalized in order to have a DM density $\rho_{\odot} = 0.4~\rm GeV\,cm^{-3}$.
@@ -20,7 +20,7 @@ For the DM distribution in the Galaxy, we consider the *NFW*, *Einasto* and *Bur
 The inelastic interaction of the propagated $\bar{p}$ and $\bar{D}$ with the ISM gas is described by an analytic Glauber-eikonal framework,
 which gives an estimate consistent with the ALICE measurement.
 
-The final cosmic-ray (CR) fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below). 
+The final CR fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below). 
 
 
 ## Format of the tables
