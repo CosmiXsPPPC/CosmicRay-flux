@@ -31,8 +31,8 @@ The default value is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1
 
 (9) the name of the folder to save the outcome flux plots. 
 
-The present version of the script will plot inside the figure folder the CR IS fluxes (ToA fluxes if Fisk =/= 0) for the user provided inputs. 
+The present version of the script will plot inside the figure folder the CR IS fluxes (ToA fluxes if Fisk \not= 0) for the user provided inputs. 
 The plots will be similar to those presented in Figs. 2 -- 8 of our paper. In each case, the shaded band will represent the MIN--MAX variation. 
 
-The script will also print the corresponding values of the IS fluxes (ToA fluxes if Fisk =/= 0) under MIN, MED and MAX setups respectively, for the user provided K.E.'s. 
+The script will also print the corresponding values of the IS fluxes (ToA fluxes if Fisk \not= 0) under MIN, MED and MAX setups respectively, for the user provided K.E.'s. 
 The printed fluxes are in units of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$. 
