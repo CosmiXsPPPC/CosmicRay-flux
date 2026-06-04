@@ -23,7 +23,7 @@ Format of the tables
 We sample the final CR flux (for all cases) in the kinetic-energy ($K$) range $0.1 {\rm GeV} \le K \le 10^5 {\rm GeV}$, with 20 bins per decade in energy.
 All these fluxes are provided in the tabulated format in four `zip` files for $\bar{p}$ and $\bar{D}$ produced by DM annihilation and decay.
 
-Inside each `zip` file the user can find a set of `dat` files, each one containing the columns:  *mDM/GeV, Log10(K/GeV) and the corresponding flux $d\phi/dK$ for 19 primary channels*. 
+Inside each `zip` file the user can find a set of `dat` files, each one containing the columns:  *mDM/GeV, Log10(K/GeV) and the corresponding flux* $d\phi/dK$ *for 19 primary channels*. 
 The fluxes are in the unit of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$ and the benchmark annihilation cross-section (decay rate) is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1}}$ 
 ($\Gamma = 10^{-28}$ $\rm{s^{-1}}$). Each `dat` file corresponds to a particular propagation model (e.g., BIG-MED) and a given DM profile.
 
