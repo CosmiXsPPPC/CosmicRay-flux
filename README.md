@@ -8,7 +8,7 @@ The script takes the user's inputs for the DM and propagation related models and
 
 (b) the corresponding plots for the fluxes. 
 
-It reads the tabulated CR fluxes that we provide separately for the independent users in '.zip' files (four .zip files for $\bar{p}$ / $\bar{D}$ produced by DM annihilation/decay). 
+It reads the tabulated CR fluxes that we provide separately for the independent users in '.zip' files (four .zip files for $\bar{p}$ and $\bar{D}$ produced by DM annihilation and decay). 
 
 In the "Inputs" section of the script, user can choose: 
 
