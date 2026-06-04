@@ -9,7 +9,7 @@ and their Galactic propagation under the **_new_** propagation models which are 
 
 # Description
 
-The DM induced primary spectra for $\bar{p}$ and $\bar{D}$ are taken from **CosmiXs** for the same DM mass binns (5 GeV - 100 TeV (10 GeV - 200 TeV) for DM annihilation (decay)) provided there and for 19 annihilation/decay channels:  $e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, ${t \bar{t}}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, $Z \gamma$, $H Z$.
+The DM induced primary spectra for $\bar{p}$ and $\bar{D}$ are taken from **CosmiXs** for the same DM mass binns (5 GeV - 100 TeV (10 GeV - 200 TeV) for DM annihilation (decay)) provided there and for 19 annihilation/decay channels:  $e^+ e^-$, $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$ $\nu_\mu$ (for $l =e, \mu, \tau$), $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, ${t \bar{t}}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, $Z \gamma$, $H Z$.
 
 Each of the spectra is then propagated through the Galaxy using the **MIN**, **MED** and **MAX** sets under the **_new_** propagation schemes: 
 **SLIM**, **BIG** and **QUAINT** to obtain the CR flux ($d\phi/dK$) at the Solar position. 
