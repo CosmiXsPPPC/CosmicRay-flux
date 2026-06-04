@@ -71,3 +71,18 @@ In each case, the shaded band will represent the MIN - MAX variation.
 
 The script will also print the corresponding values of the IS fluxes (ToA fluxes if $\Phi_F \not= 0$) under MIN, MED and MAX setups respectively, for the user provided $K$'s.
 The printed fluxes are in units of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$. 
+
+
+# Citations
+
+If you use this repository please cite: M. Cirelli, M. Di Mauro, A. Kar, {2606.XXXXX} 
+
+
+# Contact 
+
+If you have any questions, comments, or suggestions, please contact: 
+
+* Marco Cirelli (marco.cirelli@gmail.com)
+* Mattia Di Mauro (dimauro.mattia@gmail.com)
+* Arpan Kar (arpankarphys@gmail.com)
+  
