@@ -4,7 +4,7 @@ The DM induced $\bar{p}$ and $\bar{D}$ spectra at production are taken from *Cos
 
 $e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, ${t \bar{t}}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, $Z \gamma$, $H Z$.
 
-Each of the spectra is then propagated through the Galaxy using the ```MIN```, ```MED``` and ``MAX`` sets under the {\it new} propagation schemes: \texttt{SLIM}, \texttt{BIG} and \texttt{QUAINT} to obtain the cosmic-ray flux ($d\phi/dK$) at the Solar position.
+Each of the spectra is then propagated through the Galaxy using the ```MIN```, ```MED``` and `MAX` sets under the {\it new} propagation schemes: \texttt{SLIM}, \texttt{BIG} and \texttt{QUAINT} to obtain the cosmic-ray flux ($d\phi/dK$) at the Solar position.
 The fluxes are computed using a semi-analytic approach considering different effects including energy-losses and reacceleration.
 
 For the DM distribution in the Galaxy we consider the NFW, Einasto and Burkert profiles which are normalized in order to have a DM density $\rho_\odot = 0.4~\rm GeV\,cm^{-3}$.
