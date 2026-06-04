@@ -1,6 +1,6 @@
 # Main purpose 
 
-The repository serves as a poor particle physicist cookbook by providing the Galactic weak-scale dark matter (DM) induced cosmic-ray (CR) fluxes of $\bar{p}$ and $\bar{D}$ 
+The repository serves as a poor particle physicist cookbook by providing the weak-scale dark matter (DM) induced cosmic-ray (CR) fluxes of $\bar{p}$ and $\bar{D}$ 
 calculated under the **_updated models_** and thus should be useful for DM indirect searches in the era of high precision CR measurements. 
 The main purpose is to allow the users to study the DM phenomenology based on cosmic-rays in an *efficient*, *fast* and *effortless* way 
 without going into the involved calculations for the fluxes. The computation of the cosmic-ray fluxes connects the updated primary spectra from **CosmiXs** 
