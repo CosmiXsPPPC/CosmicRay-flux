@@ -36,7 +36,7 @@ The fluxes are in the unit of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$ and the benchma
 
 ## About the python script
 
-The python script can be run using a command in the terminal: `python3 CR_flux.py`
+The python script can be run using a command in the terminal: `python3 CosmiXsPPPC.py`
 
 The script takes the user's inputs for the DM and propagation related models and returns
 
