@@ -25,14 +25,14 @@ The default value is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1
 
 (6) DM profiles: NFW, Einasto or Burkert 
 
-(7) values of K.E. to print the CR fluxes
+(7) values of K.E. to print the CR fluxes (in range 0.1 GeV - $10^5$ GeV)
 
 (8) a value for the Fisk potential ($\Phi_F$)
 
 (9) the name of the folder to save the outcome flux plots. 
 
 The present version of the script will plot inside the figure folder the CR IS fluxes (ToA fluxes if $\Phi_F \not= 0$) for the user provided inputs. 
-The plots will be similar to those presented in Figs. 2 -- 8 of our paper. In each case, the shaded band will represent the MIN--MAX variation. 
+The plots will be similar to those presented in Figs. 2 - 8 of our paper. In each case, the shaded band will represent the MIN - MAX variation. 
 
 The script will also print the corresponding values of the IS fluxes (ToA fluxes if $\Phi_F \not= 0$) under MIN, MED and MAX setups respectively, for the user provided K.E.'s. 
 The printed fluxes are in units of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$. 
