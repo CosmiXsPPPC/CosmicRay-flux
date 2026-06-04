@@ -1,6 +1,8 @@
 ******************************************************
-Run the python script using:  "python3 CR_flux.py" 
+About the python script
 ******************************************************
+
+The python script can be run using a command in the terminal: "python3 CR_flux.py"
 
 The script takes the user's inputs for the DM and propagation related models and returns 
 
