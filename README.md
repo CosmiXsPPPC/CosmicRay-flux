@@ -15,7 +15,7 @@ The final cosmic-ray (CR) fluxes are provided in a tabulated format (described b
 
 
 ******************************************************
-Format of the tables
+# Format of the tables
 ******************************************************
 
 We sample the final CR flux (for all cases) in the kinetic-energy ($K$) range $0.1 {\rm GeV} \le K \le 10^5 {\rm GeV}$, with 20 bins per decade in energy.
