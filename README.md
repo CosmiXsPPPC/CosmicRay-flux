@@ -2,7 +2,7 @@ The repository provides the Galactic weak-scale dark matter (DM) induced cosmic-
 
 The DM induced $\bar{p}$ and $\bar{D}$ spectra at production are taken from CosmiXs for the same DM mass binns (in the range 5 GeV--100 TeV (10 GeV--200 TeV) for DM annihilation (decay)) provided in CosmiXs and PPPC4DMID and for 19 annihilation/decay channels: 
 
-$e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $t \bar{t}$, $b \bar{b}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, 
+$e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, $t \bar{t}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, 
 $Z \gamma$, $H Z$.
 
 Each of these spectra is then propagated through the Galaxy using the \texttt{MIN}, \texttt{MED} and \texttt{MAX} sets under the {\it new} propagation schemes: \texttt{SLIM}, \texttt{BIG} and \texttt{QUAINT} to obtain the cosmic-ray flux ($d\phi/dK$) at the Solar position.
