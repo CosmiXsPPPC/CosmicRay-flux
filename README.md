@@ -80,7 +80,7 @@ If you use this repository please cite: M. Cirelli, M. Di Mauro, A. Kar, {2606.X
 
 # Contact 
 
-If you have any questions, comments, or suggestions, please contact: 
+If you have any questions, comments or suggestions, please contact: 
 
 * Marco Cirelli (marco.cirelli@gmail.com)
 * Mattia Di Mauro (dimauro.mattia@gmail.com)
