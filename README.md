@@ -11,12 +11,12 @@ For the DM distribution in the Galaxy, we consider the *NFW*, *Einasto* and *Bur
 The inelastic interaction of the propagated $\bar{p}$ and $\bar{D}$ with the ISM gas is described by an analytic Glauber-eikonal framework,
 which gives an estimate consistent with the ALICE measurement.
 
-The final cosmic-ray (CR) fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below).
+The final cosmic-ray (CR) fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below). 
+
+# Novelty
 
 
-******************************************************
 # Format of the tables
-******************************************************
 
 We sample the final CR flux (for all cases) in the kinetic-energy ($K$) range $0.1 {\rm GeV} \le K \le 10^5 {\rm GeV}$, with 20 bins per decade in energy.
 All these fluxes are provided in the tabulated format in four `zip` files for $\bar{p}$ and $\bar{D}$ produced by DM annihilation and decay.
@@ -27,9 +27,7 @@ The fluxes are in the unit of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$ and the benchma
 ($\Gamma = 10^{-28}$ $\rm{s^{-1}}$). Each `dat` file corresponds to a particular propagation model (e.g., BIG-MED) and a given DM profile.
 
 
-******************************************************
-About the python script
-******************************************************
+# About the python script
 
 The python script can be run using a command in the terminal: `python3 CR_flux.py`
 
