@@ -1,7 +1,7 @@
 # Main purpose 
 
 The repository serves as a poor particle physicist cookbook by providing the weak-scale dark matter (DM) induced cosmic-ray (CR) fluxes for $\bar{p}$ and $\bar{d}$ 
-calculated under the **_updated models_**, and thus should be useful for DM indirect searches in the era of high precision CR measurements. 
+calculated under the **_updated models_**, and should be useful for DM indirect searches in the era of high precision CR measurements. 
 The main purpose is to allow the users to study the DM phenomenology based on cosmic-rays in an *efficient*, *fast* and *effortless* way 
 without going into the involved calculations for the fluxes. The computation of the CR fluxes connects the updated primary spectra from **CosmiXs** 
 and their Galactic propagation under the **_new propagation models_** which are now much more constrained, thanks to the precision CR measurements. 
@@ -23,7 +23,8 @@ The final CR fluxes are provided in a tabulated format (described below), which 
 ## Format of the tables
 
 We sample the final CR flux (for all cases) in the kinetic-energy ($K$) range $0.1 {\rm GeV} \le K \le 10^5 {\rm GeV}$, with 20 bins per decade in energy.
-All these fluxes are provided in the tabulated format in four `zip` files for $\bar{p}$ and $\bar{D}$ produced by DM annihilation and decay.
+All these fluxes are provided in the tabulated format in four `zip` files for $\bar{p}$ and $\bar{D}$ produced by DM annihilation and decay and can be used by interpolating 
+for desired DM masses and energies. 
 
 Inside each `zip` file the user can find a set of `dat` files, each one containing the columns: 
 { mDM/GeV, Log10(K/GeV) and the corresponding interstellar flux $d\phi/dK$ for 19 primary channels }. 
