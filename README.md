@@ -7,10 +7,10 @@ $e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu_{l} \bar{\nu}_{l}$, $u \bar{u}
 Each of the spectra is then propagated through the Galaxy using the `MIN`, `MED` and `MAX` sets under the *new* propagation schemes: `SLIM`, `BIG` and `QUAINT` to obtain the cosmic-ray flux 
 ($d\phi/dK$) at the Solar position. The fluxes are computed using the semi-analytic approach considering different effects including energy-losses and re-acceleration.
 
-For the DM distribution in the Galaxy, we consider the NFW, Einasto and Burkert profiles which are normalized in order to have a DM density $\rho_{\odot} = 0.4 \rm GeV\,cm^{-3}$.
+For the DM distribution in the Galaxy, we consider the NFW, Einasto and Burkert profiles which are normalized in order to have a DM density $\rho_{\odot} = 0.4~\rm GeV\,cm^{-3}$.
 
 The inelastic interaction of the propagated $\bar{p}$ and $\bar{D}$ with the ISM gas is described by an analytic Glauber-eikonal framework,
-which gives an estimate consistent with the {\sc Alice} measurement.
+which gives an estimate consistent with the Alice measurement.
 
 The final cosmic-ray (CR) fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below).
 
@@ -22,15 +22,15 @@ Format of the tables
 We sample the final CR flux (for all cases) in the kinetic-energy ($K$) range $0.1 {\rm GeV} \le K \le 10^5 {\rm GeV}$, with 20 bins per decade in energy.
 All these fluxes are provided in the tabulated format in four '.zip' files for $\bar{p}$ and $\bar{D}$ produced by DM annihilation and decay.
 
-Inside each '.zip' file the user can find a set of '.dat' files, each one containing the columns:  mDM/GeV, Log10(K/GeV) and the corresponding flux $d\phi/dK$ for 19 primary channels. All the fluxes are in the unit of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$. Each '.dat' file corresponds to a particular propagation model (e.g., BIG-MED) and a DM profile.
-The benchmark annihilation cross-section (decay rate) is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1}}$ ($\Gamma = 10^{-28}$ $\rm{s^{-1}}$).
+Inside each '.zip' file the user can find a set of '.dat' files, each one containing the columns:  mDM/GeV, Log10(K/GeV) and the corresponding flux $d\phi/dK$ for 19 primary channels. The fluxes are in the unit of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$ and the benchmark annihilation cross-section (decay rate) is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1}}$ 
+($\Gamma = 10^{-28}$ $\rm{s^{-1}}$). Each '.dat' file corresponds to a particular propagation model (e.g., BIG-MED) and a given DM profile.
 
 
 ******************************************************
 About the python script
 ******************************************************
 
-The python script can be run using a command in the terminal: "python3 CR_flux.py"
+The python script can be run using a command in the terminal: `python3 CR_flux.py`
 
 The script takes the user's inputs for the DM and propagation related models and returns
 
