@@ -16,7 +16,7 @@ In the "Inputs" section of the script, user can choose:
 
 * the CR species, i.e., $\bar{p}$ or $\bar{D}$, 
 
-* DM interaction type, i.e., Annihilation or Decay, and the corresponding value of $\langle \sigma v \rangle$ or $\Gamma$. \\
+* DM interaction type, i.e., Annihilation or Decay, and the corresponding value of $\langle \sigma v \rangle$ or $\Gamma$. \
   The default value is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1}}$ and $\Gamma = 10^{-28}$ $\rm{s^{-1}}$. 
 
 * values of DM mass 
