@@ -1,4 +1,6 @@
-\title{About the python script}
+******************************************************
+About the python script
+******************************************************
 
 The python script can be run using a command in the terminal: "python3 CR_flux.py"
 
