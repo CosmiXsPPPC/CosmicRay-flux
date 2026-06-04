@@ -34,7 +34,8 @@ In each case, the flux in a given channel can be interpolated for the desired DM
 
 ## About the python script
 
-The python script can be run (keeping in the same directory containing the `zip` files) using a command in the terminal: `python3 CosmiXsPPPC.py`
+The python script can be run (keeping in the same directory containing the `zip` files) using a command in the terminal:\ 
+`python3 CosmiXsPPPC.py`
 
 The script takes the user's inputs for the DM and propagation related models and returns
 
