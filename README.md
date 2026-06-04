@@ -25,7 +25,7 @@ The default value is $\langle \sigma v \rangle = 3\times10^{-26}$ $\rm{cm^3s^{-1
 
 (6) DM profiles: NFW, Einasto or Burkert 
 
-(7) values of K.E. to print the CR fluxes (in range 0.1 GeV - $10^5$ GeV)
+(7) values of K.E. to print the CR fluxes (in the range 0.1 GeV - $10^5$ GeV)
 
 (8) a value for the Fisk potential ($\Phi_F$)
 
