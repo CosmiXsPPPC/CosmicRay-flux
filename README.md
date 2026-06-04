@@ -4,7 +4,7 @@ The repository serves as a poor particle physicist cookbook by providing the wea
 calculated under the **_updated models_**, and thus should be useful for DM indirect searches in the era of high precision CR measurements. 
 The main purpose is to allow the users to study the DM phenomenology based on cosmic-rays in an *efficient*, *fast* and *effortless* way 
 without going into the involved calculations for the fluxes. The computation of the CR fluxes connects the updated primary spectra from **CosmiXs** 
-and their Galactic propagation under the **_new_** propagation models which are now much more constrained, thanks to the precision CR measurements. 
+and their Galactic propagation under the **_new propagation models_** which are now much more constrained, thanks to the precision CR measurements. 
 
 
 # Description
