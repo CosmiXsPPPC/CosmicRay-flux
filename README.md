@@ -1,6 +1,8 @@
 The repository provides the Galactic weak-scale dark matter (DM) induced cosmic-ray fluxes for $\bar{p}$ and $\bar{D}$ estimated under the updated models and are useful for DM indirect searches.
 
-The DM induced $\bar{p}$ and $\bar{D}$ spectra {\it at production} are taken from \texttt{CosmiXs} for the same DM mass binns (in the range 5 GeV--100 TeV (10 GeV--200 TeV) for DM annihilation (decay)) provided in \texttt{CosmiXs} and \texttt{PPPC4DMID} and for 19 annihilation/decay channels: $e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu \bar{\nu}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, $t \bar{t}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, $Z \gamma$, $H Z$.
+The DM induced $\bar{p}$ and $\bar{D}$ spectra {\it at production} are taken from \texttt{CosmiXs} for the same DM mass binns (in the range 5 GeV--100 TeV (10 GeV--200 TeV) for DM annihilation (decay)) provided in \texttt{CosmiXs} and \texttt{PPPC4DMID} and for 19 annihilation/decay channels: \ 
+$e^+ e^-$, , $\mu^+ \mu^-$, $\tau^+ \tau^-$, $\nu \bar{\nu}$, $u \bar{u}$, $d \bar{d}$, $s \bar{s}$, $c \bar{c}$, $b \bar{b}$, $t \bar{t}$, $\gamma \gamma$, $g g$, $W^+ W^-$, $Z Z$, $H H$, 
+$Z \gamma$, $H Z$.
 
 Each of these spectra is then propagated through the Galaxy using the \texttt{MIN}, \texttt{MED} and \texttt{MAX} sets under the {\it new} propagation schemes: \texttt{SLIM}, \texttt{BIG} and \texttt{QUAINT} to obtain the cosmic-ray flux ($d\phi/dK$) at the Solar position.
 The fluxes are computed using a semi-analytic approach considering different effects including energy-losses and reacceleration.
