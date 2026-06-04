@@ -13,7 +13,9 @@ which gives an estimate consistent with the ALICE measurement.
 
 The final cosmic-ray (CR) fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below). 
 
-# Novelty
+# Main purpose 
+
+..................
 
 
 # Format of the tables
