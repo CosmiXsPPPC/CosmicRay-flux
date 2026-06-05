@@ -64,11 +64,11 @@ In the "Inputs" section of the script, user can choose:
 
 * The name of the folder to save the outcome flux plots.
 
-The present version of the script will plot inside the figure folder the CR IS fluxes (ToA fluxes if $\Phi_F \not= 0$) for the user provided inputs.
-The plots will be similar to those presented in Figs. 2 - 8 of our paper. N.B., for $\bar{D}$, the fluxes are plotted as a function of $K/n$.
+The present version of the script will plot, inside the figure folder, the CR Top-of-Atmosphere (ToA) for the user provided inputs.
+The plots will be similar to those presented in Figs. 2 - 8 of our paper. N.B., for $\bar{d}$, the fluxes are plotted as a function of $K/n$.
 In each case, the shaded band will represent the MIN - MAX variation.
 
-The script will also print the corresponding values of the Top-of-Atmosphere (ToA) fluxes under MIN, MED and MAX setups respectively, for the user provided $K$'s.
+The script will also print the corresponding values of the ToA fluxes under MIN, MED and MAX setups respectively, for the user provided $K$'s.
 The printed fluxes are in units of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$. 
 
 
