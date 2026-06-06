@@ -13,7 +13,7 @@ Each of the spectra is then propagated through the Galaxy using the **MIN**, **M
 **SLIM**, **BIG** and **QUAINT** to obtain the CR flux ($d\phi/dK$) at the Solar position. 
 The fluxes are computed using a semi-analytic approach and considering different effects including energy-losses and re-acceleration.
 
-For the DM distribution in the Galaxy, we consider the *NFW*, *Einasto* and *Burkert* profiles which are normalized in order to have a DM density $\rho_{\odot} = 0.4~\rm GeV\,cm^{-3}$. 
+For the DM distribution in the Galaxy, we consider the *NFW*, *Einasto* and *Burkert* profiles which are normalized in order to have a DM density $\rho_{\odot} = 0.4~\rm GeV\ cm^{-3}$. 
 
 The final CR fluxes are provided in a tabulated format (described below), which can be used independently or can be loaded using the python script (described below). 
 
