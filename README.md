@@ -1,6 +1,6 @@
 # Main purpose 
 
-The repository provides the weak-scale dark matter (DM)-induced cosmic-ray (CR) fluxes of $\bar{p}$ and $\bar{d}$ calculated in arxiv:2606.10017, to be used for DM indirect searches in the era of high precision CR measurements. 
+The repository provides the weak-scale dark matter (DM)-induced cosmic-ray (CR) fluxes of $\bar{p}$ and $\bar{d}$ calculated in https://arxiv.org/abs/2606.10017, to be used for DM indirect searches in the era of high precision CR measurements. 
 The main purpose is to allow the users to study the DM phenomenology based on cosmic-rays in an *efficient*, *fast* and *effortless* way without going into the involved calculations for the fluxes. 
 The computation of the CR fluxes connects the updated primary spectra from **CosmiXs** and their Galactic propagation under the **_new propagation models_** which are now much more constraining, thanks to precision CR measurements. 
 
