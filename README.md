@@ -75,7 +75,7 @@ The printed fluxes are in units of $\rm{GeV^{-1}m^{-2}s^{-1}sr^{-1}}$.
 
 # Citations
 
-If you use this repository please cite: M. Cirelli, M. Di Mauro, A. Kar, {arXiv:2606.10017} 
+If you use this repository please cite: M. Cirelli, M. Di Mauro, A. Kar, https://arxiv.org/abs/2606.10017
 
 
 # Contact 
